@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+    padding: 0;
+background:aquamarine;
+}
+.container{
+ 
+   top:100px;
+left:300px;
+position:absolute;
+}
+h1{
+    font-size: 75px;
+    font-variant: small-caps;
+    border-bottom: 3px solid coral;
+    
+}
+.main{
+    margin-left:  150px;
+    width: 400px;
+    display: flex;
+   border: 5px groove blue;
+    justify-content: space-between;
+    align-items: center;
+    padding: 50px 20px;
+}
+label{
+  
+  font-size: 25px;
+    font-variant: small-caps;
+   
+}
+input{
+    text-align: center;
+    width: 100px;
+    height: 25px;
+    border: none;
+    
+}
